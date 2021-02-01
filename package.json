@@ -1,0 +1,45 @@
+{
+  "name": "dndbattledice",
+  "version": "1.0.0",
+  "description": "Create a profile for each of your D&D characters (outlining class features, magical weapon effects, spells.. etc) and this bot will intuitively calculate your battle dice every turn and find away to deal maximum damage whilst keeping track on the resource cost and effects duration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkoudounakou/dndBattleDice.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "D&D",
+    "Dnd",
+    "Dungeons&Dragons",
+    "Dungeon",
+    "Dice",
+    "Roller",
+    "Attack",
+    "Roll",
+    "Helper",
+    "Battle",
+    "Effects",
+    "Duration",
+    "Tracker",
+    "Turn",
+    "Cost",
+    "Damage",
+    "Calculator",
+    "D20"
+  ],
+  "author": "Maria Koudounakou",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/mkoudounakou/dndBattleDice/issues"
+  },
+  "homepage": "https://github.com/mkoudounakou/dndBattleDice#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
